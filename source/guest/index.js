@@ -19,6 +19,7 @@ module.exports = function storageGuest(source, parent) {
 
     const iframe = document.createElement('iframe');
     iframe.src = source;
+    iframe.setAttribute('sandbox', 'allow-scripts allow-same-origin');
     iframe.width = 0;
     iframe.height = 0;
     iframe.style.display = 'none';
