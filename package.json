@@ -26,14 +26,14 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/MatthewLarner/cross-domain-storage.git"
+        "url": "git+https://github.com/iabo/cross-domain-storage.git"
     },
-    "author": "Matt Larner <matt.larner.dev@gmail.com>",
+    "author": "Yabdul Abdala <abdalayb@gmail.com>",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/MatthewLarner/cross-domain-storage/issues"
+        "url": "https://github.com/iabo/cross-domain-storage/issues"
     },
-    "homepage": "https://github.com/MatthewLarner/cross-domain-storage#readme",
+    "homepage": "https://github.com/iabo/cross-domain-storage#readme",
     "dependencies": {},
     "devDependencies": {
         "babel-cli": "^6.26.0",
